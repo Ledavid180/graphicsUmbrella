@@ -1,0 +1,28 @@
+body {
+    font-family: armata, helvetica;
+}
+
+.navbar {
+    padding-top: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar li {
+    display: inline;
+    padding-right: 40px;
+}
+
+.navbar a {
+    font-size: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.hero {
+    background: 
+}
