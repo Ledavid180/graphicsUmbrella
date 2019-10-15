@@ -60,7 +60,63 @@ body {
     padding: 0; 
 }*/
 
-.icons {
+.eachIcon {
     padding-top: 70px;
+    text-align: center;
+}
+
+.smallIcon {
+    display: inline-block;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.littleTitle {
+    text-transform: capitalize;
+    font-size: 15px; 
+}
+
+.sectionTitle {
+    text-transform: uppercase;
+    font-size: 25px;
+    padding-right: 0;
+    padding-left: 31px;
+}
+
+.greenText {
+    color: #A0C63F;
+}
+
+.grayLining {
+    padding-top: 22px;
+}
+
+.cards {
+    padding-top: 30px;
+}
+
+.boxTitle {
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.boxImg {
+    width: 100%;
+}
+
+.serviceBoxes {
+    background-color: white;
+    border: 1px solid black;
+    border-left: none;
+    padding-top: 43px;
+}
+
+.noPadding {
+    padding-right: 0;
 }
 
