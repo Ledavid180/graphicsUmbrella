@@ -23,9 +23,13 @@ body {
     text-decoration: none;
 }
 
+.navbar a:hover {
+    color: #A0C63F;
+}
+
 .hero {
     background-color: #A0C63F;
-    width: 1550px; 
+    width: 1530px; 
 }
 
 .heroPic {
